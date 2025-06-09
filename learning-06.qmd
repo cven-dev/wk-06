@@ -31,13 +31,13 @@ This final section introduces the workflow you need to follow at the end of each
 2.  **Stage** your changes by checking appropriate box next to all files (if you select one file with your mouse, you can then highlight them all with Ctrl + A on your keyboard and check all boxes)
 3.  Write a meaningful commit message (e.g. "Completed homework assignment 1b) in the **Commit message** box
 4.  Click **Commit**. Note that every commit needs to have a commit message associated with it.
-5.  Go to your course-material GitHub repo and refresh the page. You should see your commit message next to the updated files.
+5.  Go to your wk-06-USERNAME GitHub repo (where USERNAME is your GitHub username) and refresh the page. You should see your commit message next to the updated files.
 
 ## Open an issue on GitHub
 
-Once you have ensured that the Quarto document renders without errors and you have pushed all your changes to GitHub, it is to complete the assignment by opening an issue on your course-material GitHub repo.
+Once you have ensured that the Quarto document renders without errors and you have pushed all your changes to GitHub, it is to complete the assignment by opening an issue on your wk-06-USERNAME GitHub repo (where USERNAME is your GitHub username).
 
-1.  Navigate to your course-material GitHub repo.
+1.  Navigate to your wk-06-USERNAME GitHub repo (where USERNAME is your GitHub username).
 2.  Click on **Issues**, and then **New issue** button.
 3.  Write a meaningful title in the **Title** field
 4.  Tag the course instructor with using the `@` sign in combination with `larnsce` as the username
