@@ -1,7 +1,9 @@
 ---
 title: "Final Practice"
 subtitle: "Section 01"
-format: html
+format:
+  html:
+    embed-resources: true
 execute: 
   echo: true
   warning: false
@@ -23,8 +25,8 @@ library(here)
 -   `what-a-waste-city-level-data-distance.csv`, and assign to the object `distance`
 
 ```{r}
-city_data <- read_csv(here("wk-06/data/what_a_waste/what-a-waste-city-level-data.csv"))
-distance <- read_csv(here("wk-06/data/what_a_waste/what-a-waste-city-level-data-distance.csv"))
+city_data <- read_csv(here("data/what_a_waste/what-a-waste-city-level-data.csv"))
+distance <- read_csv(here("data/what_a_waste/what-a-waste-city-level-data-distance.csv"))
 ```
 
 # Task 1.1
